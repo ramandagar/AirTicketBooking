@@ -10,6 +10,6 @@ class ServiceError extends Error {
         this.explanation = explanation;
         this.statusCode = statusCode
     }
-}
+} 
 
 module.exports = ServiceError
