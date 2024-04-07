@@ -1,4 +1,3 @@
-import { message } from 'antd'
 const { StatusCodes } = require('http-status-codes')
 
 class ValidationError extends Error {
@@ -17,3 +16,5 @@ class ValidationError extends Error {
     }
 
 }
+
+module.exports = ValidationError;
