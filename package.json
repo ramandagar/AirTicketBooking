@@ -17,6 +17,7 @@
     "morgan": "^1.10.0",
     "mysql2": "^3.9.3",
     "nodemon": "^3.1.0",
+    "parking-lot": "^1.0.0",
     "sequelize": "^6.37.2",
     "sequelize-cli": "^6.6.2"
   }
